@@ -8,4 +8,5 @@
 <p align="center"> strawpage
 
 　
-<p align="center"> <img width="300" height="300" alt="Untitled292_20250713211145" src="https://github.com/user-attachments/assets/7832a91b-631e-4883-93fb-9a38632d164e" />
+<p align="center"> <img width="300" height="300" alt="Untitled292_20250713211145" src="https://github.com/user-attachments/assets/7832a91b-631e-4883-93fb-9a38632d164e" /> <img width="220" height="300" alt="Untitled139_20250829195648" src="https://github.com/user-attachments/assets/68a91313-65e7-4cee-ad2f-8fb8b905804c" />
+
